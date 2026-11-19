@@ -1,0 +1,6 @@
+{
+  "name": "Angel's Burger Online",
+  "description": "Online food ordering platform and store management dashboard for Angel's Burger Online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
